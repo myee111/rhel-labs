@@ -1,0 +1,135 @@
+{
+    "title": "RHEL8 Labs",
+    "tracks": [
+        {
+            "slug": "rhel/session-recording-tlog",
+            "title": "Configuring Terminal Session Recording",
+            "description": "Keep track of what is happening on your systems by using Terminal Session Recording to record and review terminal sessions of users and administrators."
+        },
+        {
+            "slug": "rhel/appstream-manage",
+            "title": "Managing software from an application stream",
+            "description": "Learn how to choose versions of popular and supported open source languages and offer them to users through an application stream."
+        },
+        {
+            "slug": "rhel/helpful-commands",
+            "title": "Helpful Linux Commands [Admin 101]",
+            "description": "Add a few essential commands to your Linux toolbox."
+        },
+        {
+            "slug": "rhel/podman-deploy",
+            "title": "Deploying containers using Container Tools [podman]",
+            "description": "Explore how Podman helps you run workloads in containers by taking an existing container image and deploying it into a runtime environment."
+        },
+        {
+            "slug": "rhel/rhel-system-roles",
+            "title": "Building a standard operating environment with RHEL System Roles",
+            "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
+        },
+        {
+            "slug": "rhel/file-permissions",
+            "title": "Using file permissions [Admin 101]",
+            "description": "Control access to file content using the Linux file permission system."
+        },
+        {
+            "slug": "rhel/sql-server-cstore",
+            "title": "Red Hat Enterprise Linux with SQL Server Columnstores",
+            "description": "Improve SQL Server performance by using Red Hat Enterprise Linux performance tools and SQL Server Columnstores."
+        },
+        {
+            "slug": "rhel/ebpf-tracing",
+            "title": "Performance observability in practice with bcc-tools",
+            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
+        },
+        {
+            "slug": "rhel/user-basics",
+            "title": "Manage user accounts and groups [Admin 101]",
+            "description": "Create users and groups, adjust memberships, and recommended practices for disabling accounts."
+        },
+        {
+            "slug": "rhel/imagebuilder",
+            "title": "Using Web Console to build virtual machine images [Image Builder]",
+            "description": "Learn how to manage virtual machines produced for different providers through a single, Web Console included application."
+        },
+        {
+            "slug": "rhel/imagebuilder-cli",
+            "title": "Design and build virtual machine images using commandline tools [Image Builder]",
+            "description": "Move into the Hybrid Cloud by building consistent virtual machines produced for virtualization or cloud providers with the composer-cli commandline tool."
+        },
+        {
+            "slug": "rhel/installing-software-yum",
+            "title": "Installing Software using Package Managers [Admin 101]",
+            "description": "Learn how to use YUM and RPM to streamline installations and verify local software."
+        },
+        {
+            "slug": "rhel/insights-workshop",
+            "title": "Resolving issues with Red Hat Insights Advisor",
+            "description": "Register systems and proactively resolve potential issues with Insights Advisor."
+        },
+        {
+            "slug": "rhel/buildah",
+            "title": "Creating images with Container Tools [buildah]",
+            "description": "Try different methods to build an application container, modify an existing container image and build one from scratch using the Container Tool buildah."
+        },
+        {
+            "slug": "rhel/service-admin",
+            "title": "Service Administration Basics [Admin 101]",
+            "description": "Learn the distinction between processes, services, and daemons, as well as how to interact with them on your system."
+        },
+        {
+            "slug": "rhel/unixisms",
+            "title": "Unusual Unixisms [Admin 101]",
+            "description": "Learn how to avoid common pitfalls for new Linux users."
+        },
+        {
+            "slug": "rhel/kpatch-apply",
+            "title": "Reducing unplanned maintenance with Kernel Live Patching",
+            "description": "Resolve Critical Vulnerabilities and Exposures (CVEs) by applying Kernel Live Patches to your systems without needing to take a system downtime for maintenance."
+        },
+        {
+            "slug": "rhel/webconsole-software",
+            "title": "Managing system updates using the web console",
+            "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
+        },
+        {
+            "slug": "rhel/networking-basics",
+            "title": "Configuring Network Interfaces [Admin 101]",
+            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
+        },
+        {
+            "slug": "rhel/selinux-containers",
+            "title": "Securing containers with SELinux [Udica]",
+            "description": "Protect your container isolation by applying SELinux policies to determine which host resources are available to a running container."
+        },
+        {
+            "slug": "rhel/crypto-policy",
+            "title": "Configuring the system-wide cryptographic policy",
+            "description": "Enforce more complex ciphers, protocol versions, and usable ciphers across all services running on your machines."
+        },
+        {
+            "slug": "rhel/customize-crypto-policy",
+            "title": "Customize the system-wide cryptographic policy",
+            "description": "Create your own customized system-wide cryptographic policy to suit your environment while still applying the policy to all applications that utilize the cryptographic libraries with Red Hat Enterprise Linux."
+        },
+        {
+            "slug": "rhel/containerize-app",
+            "title": "Build an application into a container image using RHEL Container Tools",
+            "description": "Containerize a 3rd party application into a Red Hat Universal Base Image (UBI) based container."
+        },
+        {
+            "slug": "rhel/vdo-configure2",
+            "title": "Reducing Operational and Storage Costs with Virtual Data Optimizer (VDO)",
+            "description": "Explore how Virtual Data Optimizer (VDO) can reduce the amount of disk space files use, allowing you to save on storage costs."
+        },
+        {
+            "slug": "rhel/stratis-configure",
+            "title": "Stratis, a new Red Hat Enterprise Linux storage technology",
+            "description": "Get started with Stratis, a pool-based storage technology included with Red Hat Enterprise Linux."
+        },
+        {
+            "slug": "rhel/sandbox",
+            "title": "Red Hat Enterprise Linux Open Lab",
+            "description": "This lab environment has no pre-planned lab content.  It provides a place to try out Red Hat Enterprise Linux 8."
+        }
+    ]
+}

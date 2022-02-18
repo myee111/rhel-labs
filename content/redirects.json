@@ -1,0 +1,12 @@
+{
+    "redirects": [
+        {
+            "from": "/rhel",
+            "to": "https://play.instruqt.com/rhel"
+        },
+        {
+            "from": "/instruqt",
+            "to": "https://play.instruqt.com/instruqt"
+        }
+    ]
+}

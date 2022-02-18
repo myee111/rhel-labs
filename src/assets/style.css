@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+
+.logo {
+    height: 40px;
+}
+
+.banner {
+    min-height: 300px;
+    background-color: #e4e6ef;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    padding: 20px 55px;
+}
+
+.banner h1 {
+    font-size: 2em;
+    font-weight: 500;
+    line-height: 1;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
+.banner h1 + p {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.5;
+    width: 50%;
+    color: #646464;
+}
+
+.tracks {
+    padding: 10px 55px;
+}
+
+.tracks h2 {
+    color: #cc0001;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+.tracks ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 1.5em;
+}
+
+.tracks ul li {
+    background-color: #e4e7ee;
+    padding: 25px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: 100%;
+}
+
+.card h3+p {
+    color: #646464;
+    flex-grow: 1;
+}
+
+.card .button {
+    color: #fff;
+    background: #c00;
+    border-color: #c00;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.track .header {
+    background-color: #e4e6ef;
+    padding: 20px 55px;
+    height: 80px;
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.track iframe {
+    width: 100%;
+    height: calc(100vh - 80px);
+}
+
+@media (max-width:640px)  {
+    html, body {
+        font-size: 14px;
+    }
+
+    .banner h1 {
+        width: 100%;
+    }
+
+    .banner h1+p {
+        line-height: 1.2;
+        width: 75%;
+    }
+
+    .tracks ul {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .tracks, .banner, .track .header {
+        padding: 20px 25px;
+    }
+}
+
+@media (min-width:641px) and (max-width: 1024px) {
+    .tracks ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
