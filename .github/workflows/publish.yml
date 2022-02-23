@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+    - id: checkout
+      uses: actions/checkout@v2
+
+    - id: setup-node
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+    - id: install-deps
+      run: npm install
+    - id: build
+      run: npm run build
+
+    - id: auth
+      name: Authenticate to Google Cloud
+      uses: google-github-actions/auth@v0
+      with:
+        workload_identity_provider: projects/1095590792109/locations/global/workloadIdentityPools/github-actions/providers/github
+        service_account: github-actions-rhel-labs@instruqt.iam.gserviceaccount.com
+
+    - id: setup-gcloud
+      uses: google-github-actions/setup-gcloud@v0
+
+    - id: publish
+      run: gsutil rsync -d -r public/ gs://instruqt-rhel-labs
