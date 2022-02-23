@@ -35,4 +35,4 @@ jobs:
       uses: google-github-actions/setup-gcloud@v0
 
     - id: publish
-      run: gsutil rsync -d -r public/ gs://instruqt-rhel-labs
+      run: gcloud alpha storage cp -r public/ gs://instruqt-rhel-labs
