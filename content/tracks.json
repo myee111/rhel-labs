@@ -27,7 +27,7 @@
             "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
         },
         {
-            "slug": "rhel/file-permissions",
+            "slug": "rhel/using-file-permissions",
             "title": "Using file permissions [Admin 101]",
             "description": "Control access to file content using the Linux file permission system."
         },
@@ -42,7 +42,7 @@
             "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
         },
         {
-            "slug": "rhel/user-basics",
+            "slug": "rhel/managing-user-basics",
             "title": "Manage user accounts and groups [Admin 101]",
             "description": "Create users and groups, adjust memberships, and recommended practices for disabling accounts."
         },
