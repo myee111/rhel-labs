@@ -7,6 +7,106 @@
         {
             "from": "/instruqt",
             "to": "https://play.instruqt.com/instruqt"
+        },
+        {
+            "from": "/appstream-manage",
+            "to": "https://play.instruqt.com/rhel/tracks/appstream-manage"
+        },
+        {
+            "from": "/buildah",
+            "to": "https://play.instruqt.com/rhel/tracks" 
+        },
+        {
+            "from": "/containerize-app",
+            "to": "https://play.instruqt.com/rhel/tracks"
+        },
+        {
+            "from": "/crypto-policy",
+            "to": "https://play.instruqt.com/rhel/tracks/crypto-policy"
+        },
+        {
+            "from": "/customize-crypto-policy",
+            "to": "https://play.instruqt.com/rhel/tracks/customize-crypto-policy"
+        },
+        {
+            "from": "/ebpf-tracing",
+            "to": "https://play.instruqt.com/rhel/tracks/ebpf-tracing"
+        },
+        {
+            "from": "/file-permissions",
+            "to": "https://play.instruqt.com/rhel/tracks/file-permissions"
+        },
+        {
+            "from": "/helpful-commands",
+            "to": "https://play.instruqt.com/rhel/tracks/helpful-commands"
+        },
+        {
+            "from": "/imagebuilder-cli",
+            "to": "https://play.instruqt.com/rhel/tracks/imagebuiler-cli"
+        },
+        {
+            "from": "/imagebuilder",
+            "to": "https://play.instruqt.com/rhel/tracks/imagebuilder" 
+        },
+        {
+            "from": "/insights-workshop",
+            "to": "https://play.instruqt.com/rhel/tracks/insights-workshop"
+        },
+        {
+            "from": "/installing-software-yum",
+            "to": "https://play.instruqt.com/rhel/tracks/installing-software-yum"
+        },
+        {
+            "from": "/kpatch-apply",
+            "to": "https://play.instruqt.com/rhel/tracks/kpatch-apply"
+        },
+        {
+            "from": "/networking-basics",
+            "to": "https://play.instruqt.com/rhel/networking-basics"
+        },
+        {
+            "from": "/podman-deploy",
+            "to": "https://play.instruqt.com/rhel"
+        },
+        {
+            "from": "/selinux-containers",
+            "to": "https://play.instruqt.com/rhel"
+        },
+        {
+            "from": "/service-admin",
+            "to": "https://play.instruqt.com/rhel/tracks/service-admin"
+        },
+        {
+            "from": "/session-recording-tlog",
+            "to": "https://play.instruqt.com/rhel/tracks/session-recording-tlog"
+        },
+        {
+            "from": "/stratis-configure",
+            "to": "https://play.instruqt.com/rhel"
+        },
+        {
+            "from": "/systemroles-soe",
+            "to": "https://play.instruqt.com/rhel/tracks/rhel-system-roles"
+        },
+        {
+            "from": "/unixisms",
+            "to": "https://play.instruqt.com/rhel/tracks/unixisms"
+        },
+        {
+            "from": "/user-basics",
+            "to": "https://play.instruqt.com/rhel/tracks/managing-user-basics" 
+        },
+        {
+            "from": "/vdo-configure2",
+            "to": "https://play.instruqt.com/rhel"
+        },
+        {
+            "from": "/webconsole-perf",
+            "to": "https://play.instruqt.com/rhel/tracks/webconsole-perf"
+        },
+        {
+            "from": "/webconsole-software",
+            "to": "https://play.instruqt.com/rhel/tracks/webconsole-software"
         }
     ]
 }
