@@ -94,7 +94,7 @@
         },
         {
             "from": "/user-basics",
-            "to": "https://play.instruqt.com/rhel/tracks/managing-user-basics" 
+            "to": "/tracks/managing-user-basics" 
         },
         {
             "from": "/vdo-configure2",
