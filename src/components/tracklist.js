@@ -4,6 +4,7 @@ import { Link } from "gatsby";
 import logo from "../assets/logo.svg";
 import favicon from "../assets/favicon.ico";
 import TracksJSON from "../../content/tracks.json";
+import "../assets/style.css";
 
 const Banner = () => {
     return (

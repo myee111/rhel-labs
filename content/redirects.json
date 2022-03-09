@@ -2,79 +2,79 @@
     "redirects": [
         {
             "from": "/appstream-manage",
-            "to": "/tracks/appstream-manage"
+            "to": "https://lab.redhat.com/tracks/appstream-manage"
         },
         {
             "from": "/crypto-policy",
-            "to": "/tracks/crypto-policy"
+            "to": "https://lab.redhat.com/tracks/crypto-policy"
         },
         {
             "from": "/customize-crypto-policy",
-            "to": "/tracks/customize-crypto-policy"
+            "to": "https://lab.redhat.com/tracks/customize-crypto-policy"
         },
         {
             "from": "/ebpf-tracing",
-            "to": "/tracks/ebpf-tracing"
+            "to": "https://lab.redhat.com/tracks/ebpf-tracing"
         },
         {
             "from": "/file-permissions",
-            "to": "/tracks/using-file-permissions"
+            "to": "https://lab.redhat.com/tracks/using-file-permissions"
         },
         {
             "from": "/helpful-commands",
-            "to": "/tracks/helpful-commands"
+            "to": "https://lab.redhat.com/tracks/helpful-commands"
         },
         {
             "from": "/imagebuilder-cli",
-            "to": "/tracks/imagebuiler-cli"
+            "to": "https://lab.redhat.com/tracks/imagebuiler-cli"
         },
         {
             "from": "/imagebuilder",
-            "to": "/tracks/imagebuilder"
+            "to": "https://lab.redhat.com/tracks/imagebuilder"
         },
         {
             "from": "/insights-workshop",
-            "to": "/tracks/insights-workshop"
+            "to": "https://lab.redhat.com/tracks/insights-workshop"
         },
         {
             "from": "/installing-software-yum",
-            "to": "/tracks/installing-software-yum"
+            "to": "https://lab.redhat.com/tracks/installing-software-yum"
         },
         {
             "from": "/kpatch-apply",
-            "to": "/tracks/kpatch-apply"
+            "to": "https://lab.redhat.com/tracks/kpatch-apply"
         },
         {
             "from": "/networking-basics",
-            "to": "/tracks/networking-basics"
+            "to": "https://lab.redhat.com/tracks/networking-basics"
         },
         {
             "from": "/service-admin",
-            "to": "/tracks/service-admin"
+            "to": "https://lab.redhat.com/tracks/service-admin"
         },
         {
             "from": "/session-recording-tlog",
-            "to": "/tracks/session-recording-tlog"
+            "to": "https://lab.redhat.com/tracks/session-recording-tlog"
         },
         {
             "from": "/systemroles-soe",
-            "to": "/tracks/rhel-system-roles"
+            "to": "https://lab.redhat.com/tracks/rhel-system-roles"
         },
         {
             "from": "/unixisms",
-            "to": "/tracks/unixisms"
+            "to": "https://lab.redhat.com/tracks/unixisms"
         },
         {
             "from": "/user-basics",
-            "to": "/tracks/managing-user-basics"
+            "to": "https://lab.redhat.com/tracks/managing-user-basics"
         },
         {
             "from": "/webconsole-perf",
-            "to": "/tracks/webconsole-perf"
+            "to": "https://lab.redhat.com/tracks/webconsole-perf"
         },
         {
             "from": "/webconsole-software",
-            "to": "/tracks/webconsole-software"
+            "to": "https://lab.redhat.com/tracks/webconsole-software"
         }
     ]
 }
