@@ -53,23 +53,14 @@ const TrackList = () => {
 };
 
 const TrackCard = ({ title, description, slug }) => {
-    // const track = slug.replace(`/`, `/tracks/`);
-    // const trackUrl = `https://play.instruqt.com/embed/${track}`;
     const trackSlug = slug.split('/').pop();
+    console.log(trackSlug);
     return (
         <div className="card">
             <h3>{title}</h3>
             <p>{description}</p>
             <div>
                 <Link to={"tracks/" + trackSlug} className="button">Start lab</Link>
-                {/* <a
-                    href={trackUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="button"
-                >
-                    Start lab
-                </a> */}
             </div>
         </div>
     );

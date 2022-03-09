@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 import { Link } from "gatsby";
 import logo from "../assets/logo.svg";
 import favicon from "../assets/favicon.ico";
+import "../assets/style.css";
 
 const Header = () => {
     return (

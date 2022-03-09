@@ -17,11 +17,6 @@
             "description": "Add a few essential commands to your Linux toolbox."
         },
         {
-            "slug": "rhel/podman-deploy",
-            "title": "Deploying containers using Container Tools [podman]",
-            "description": "Explore how Podman helps you run workloads in containers by taking an existing container image and deploying it into a runtime environment."
-        },
-        {
             "slug": "rhel/rhel-system-roles",
             "title": "Building a standard operating environment with RHEL System Roles",
             "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
@@ -67,11 +62,6 @@
             "description": "Register systems and proactively resolve potential issues with Insights Advisor."
         },
         {
-            "slug": "rhel/buildah",
-            "title": "Creating images with Container Tools [buildah]",
-            "description": "Try different methods to build an application container, modify an existing container image and build one from scratch using the Container Tool buildah."
-        },
-        {
             "slug": "rhel/service-admin",
             "title": "Service Administration Basics [Admin 101]",
             "description": "Learn the distinction between processes, services, and daemons, as well as how to interact with them on your system."
@@ -92,14 +82,14 @@
             "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
         },
         {
+            "slug": "rhel/webconsole-perf",
+            "title": "Using Web Console to Monitor Performance",
+            "description": ""
+        },
+        {
             "slug": "rhel/networking-basics",
             "title": "Configuring Network Interfaces [Admin 101]",
             "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
-        },
-        {
-            "slug": "rhel/selinux-containers",
-            "title": "Securing containers with SELinux [Udica]",
-            "description": "Protect your container isolation by applying SELinux policies to determine which host resources are available to a running container."
         },
         {
             "slug": "rhel/crypto-policy",
@@ -110,21 +100,6 @@
             "slug": "rhel/customize-crypto-policy",
             "title": "Customize the system-wide cryptographic policy",
             "description": "Create your own customized system-wide cryptographic policy to suit your environment while still applying the policy to all applications that utilize the cryptographic libraries with Red Hat Enterprise Linux."
-        },
-        {
-            "slug": "rhel/containerize-app",
-            "title": "Build an application into a container image using RHEL Container Tools",
-            "description": "Containerize a 3rd party application into a Red Hat Universal Base Image (UBI) based container."
-        },
-        {
-            "slug": "rhel/vdo-configure2",
-            "title": "Reducing Operational and Storage Costs with Virtual Data Optimizer (VDO)",
-            "description": "Explore how Virtual Data Optimizer (VDO) can reduce the amount of disk space files use, allowing you to save on storage costs."
-        },
-        {
-            "slug": "rhel/stratis-configure",
-            "title": "Stratis, a new Red Hat Enterprise Linux storage technology",
-            "description": "Get started with Stratis, a pool-based storage technology included with Red Hat Enterprise Linux."
         },
         {
             "slug": "rhel/sandbox",
