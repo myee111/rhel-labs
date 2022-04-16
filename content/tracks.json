@@ -3,106 +3,127 @@
     "tracks": [
         {
             "slug": "rhel/session-recording-tlog",
+            "token": "em_YX_bsY6ekUg7G1C7",
             "title": "Configuring Terminal Session Recording",
             "description": "Keep track of what is happening on your systems by using Terminal Session Recording to record and review terminal sessions of users and administrators."
         },
         {
             "slug": "rhel/appstream-manage",
+            "token": "em_HBLAdJ2e0wb9uqw5",
             "title": "Managing software from an application stream",
             "description": "Learn how to choose versions of popular and supported open source languages and offer them to users through an application stream."
         },
         {
             "slug": "rhel/helpful-commands",
+            "token": "em_KCCSruY2wK_9feq1",
             "title": "Helpful Linux Commands [Admin 101]",
             "description": "Add a few essential commands to your Linux toolbox."
         },
         {
             "slug": "rhel/rhel-system-roles",
+            "token": "em_u7LY84PWTHqOpbGM",
             "title": "Building a standard operating environment with RHEL System Roles",
             "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
         },
         {
             "slug": "rhel/using-file-permissions",
+            "token": "em_Se-vMor7t4xwk0Vl",
             "title": "Using file permissions [Admin 101]",
             "description": "Control access to file content using the Linux file permission system."
         },
         {
             "slug": "rhel/sql-server-cstore",
+            "token": "em_CGaegyNgWaIna89D",
             "title": "Red Hat Enterprise Linux with SQL Server Columnstores",
             "description": "Improve SQL Server performance by using Red Hat Enterprise Linux performance tools and SQL Server Columnstores."
         },
         {
             "slug": "rhel/ebpf-tracing",
+            "token": "em_aOddlcxT1SOFdNJP",
             "title": "Performance observability in practice with bcc-tools",
             "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
         },
         {
             "slug": "rhel/managing-user-basics",
+            "token": "em_oCqs5YhwrMNeQj5O",
             "title": "Manage user accounts and groups [Admin 101]",
             "description": "Create users and groups, adjust memberships, and recommended practices for disabling accounts."
         },
         {
             "slug": "rhel/imagebuilder",
+            "token": "em_mmxXWx9_et-unWVp",
             "title": "Using Web Console to build virtual machine images [Image Builder]",
             "description": "Learn how to manage virtual machines produced for different providers through a single, Web Console included application."
         },
         {
             "slug": "rhel/imagebuilder-cli",
+            "token": "em_ysbuSqYxlfESiiYj",
             "title": "Design and build virtual machine images using commandline tools [Image Builder]",
             "description": "Move into the Hybrid Cloud by building consistent virtual machines produced for virtualization or cloud providers with the composer-cli commandline tool."
         },
         {
             "slug": "rhel/installing-software-yum",
+            "token": "em_w7EM9Z8I5l8wi0vH",
             "title": "Installing Software using Package Managers [Admin 101]",
             "description": "Learn how to use YUM and RPM to streamline installations and verify local software."
         },
         {
             "slug": "rhel/insights-workshop",
+            "token": "em_nHZovFaXtpAJ4W0r",
             "title": "Resolving issues with Red Hat Insights Advisor",
             "description": "Register systems and proactively resolve potential issues with Insights Advisor."
         },
         {
             "slug": "rhel/service-admin",
+            "token": "em_p4Gia-xgOtDC5p7P",
             "title": "Service Administration Basics [Admin 101]",
             "description": "Learn the distinction between processes, services, and daemons, as well as how to interact with them on your system."
         },
         {
             "slug": "rhel/unixisms",
+            "token": "em_ZDXD12LbYQkgU72r",
             "title": "Unusual Unixisms [Admin 101]",
             "description": "Learn how to avoid common pitfalls for new Linux users."
         },
         {
             "slug": "rhel/kpatch-apply",
+            "token": "em_B9EL5nWy-ZXm4GFg",
             "title": "Reducing unplanned maintenance with Kernel Live Patching",
             "description": "Resolve Critical Vulnerabilities and Exposures (CVEs) by applying Kernel Live Patches to your systems without needing to take a system downtime for maintenance."
         },
         {
             "slug": "rhel/webconsole-software",
+            "token": "em_k2gOngwsskd2qiA6",
             "title": "Managing system updates using the web console",
             "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
         },
         {
             "slug": "rhel/webconsole-perf",
+            "token": "em_WaKeB09HY94qgYJz",
             "title": "Using Web Console to Monitor Performance",
             "description": ""
         },
         {
             "slug": "rhel/networking-basics",
+            "token": "em_pTgs9ZMJVMhZvj4f",
             "title": "Configuring Network Interfaces [Admin 101]",
             "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
         },
         {
             "slug": "rhel/crypto-policy",
+            "token": "em_zC16xH7OhHWl6JUv",
             "title": "Configuring the system-wide cryptographic policy",
             "description": "Enforce more complex ciphers, protocol versions, and usable ciphers across all services running on your machines."
         },
         {
             "slug": "rhel/customize-crypto-policy",
+            "token": "em_s7wJpPFxJYFchzdK",
             "title": "Customize the system-wide cryptographic policy",
             "description": "Create your own customized system-wide cryptographic policy to suit your environment while still applying the policy to all applications that utilize the cryptographic libraries with Red Hat Enterprise Linux."
         },
         {
             "slug": "rhel/sandbox",
+            "token": "em_2-ROeaX2dowRGBpI",
             "title": "Red Hat Enterprise Linux Open Lab",
             "description": "This lab environment has no pre-planned lab content.  It provides a place to try out Red Hat Enterprise Linux 8."
         }

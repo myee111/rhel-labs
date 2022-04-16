@@ -23,7 +23,7 @@ const Track = ({ pageContext }) => {
     let trackURL = `https://play.instruqt.com/embed/${pageContext.track.slug.replace(
         `/`,
         `/tracks/`
-    )}`;
+    )}?token=${pageContext.track.token}`;
     return (
         <div class="track">
             <Helmet>
