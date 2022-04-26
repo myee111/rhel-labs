@@ -73,6 +73,30 @@
             "to": "https://lab.redhat.com/tracks/webconsole-perf"
         },
         {
+            "from": "/sql-server-insights",
+            "to": "https://lab.redhat.com/tracks/sql-server-insights"
+        },
+         {
+            "from": "/sql-server-session-recording",
+            "to": "https://lab.redhat.com/tracks/sql-server-session-recording"
+        },
+         {
+            "from": "/sql-server-cstore",
+            "to": "https://lab.redhat.com/tracks/sql-server-cstore"
+        },
+         {
+            "from": "/sql-server-crypto-policy",
+            "to": "https://lab.redhat.com/tracks/sql-server-crypto-policy"
+        },
+        {
+            "from": "/pcp-intro",
+            "to": "https://lab.redhat.com/tracks/pcp-intro"
+        },
+         {
+            "from": "/ansible-idm",
+            "to": "https://www.redhat.com/en/blog/automating-red-hat-identity-management-installation"
+        },
+        {
             "from": "/webconsole-software",
             "to": "https://lab.redhat.com/tracks/webconsole-software"
         }
