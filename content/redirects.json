@@ -93,8 +93,8 @@
             "to": "https://lab.redhat.com/tracks/pcp-intro"
         },
          {
-            "from": "/ansible-idm",
-            "to": "https://www.redhat.com/en/blog/automating-red-hat-identity-management-installation"
+            "from": "/sql-server-ansible",
+            "to": "https://lab.redhat.com/tracks/sql-server-ansible"
         },
         {
             "from": "/webconsole-software",
