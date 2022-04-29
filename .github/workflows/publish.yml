@@ -35,4 +35,4 @@ jobs:
       uses: google-github-actions/setup-gcloud@v0
 
     - id: publish
-      run: gcloud --quiet alpha storage cp -r public/ gs://instruqt-rhel-labs
+      run: gcloud --quiet alpha storage cp -r "public/*" gs://instruqt-rhel-labs
