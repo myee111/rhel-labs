@@ -98,6 +98,12 @@
             "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
         },
         {
+            "slug": "rhel/selinux-containers",
+            "token": "em_ear33dvlumIwFTZG",
+            "title": "Generate container-specific SELinux settings",
+            "description": "Use the RHEL Container Tools to generate custom SELinux security profiles for a containerized application."
+        },
+        {
             "slug": "rhel/webconsole-perf",
             "token": "em_WaKeB09HY94qgYJz",
             "title": "Using Web Console to Monitor Performance",
