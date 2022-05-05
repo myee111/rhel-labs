@@ -176,6 +176,12 @@
             "description": "Use Ansible powered RHEL System Roles to install and configure Microsoft SQL Server on Red Hat Enterprise Linux"
         },
         {
+            "slug": "rhel/sql-server-ubi2",
+            "token": "em_MSvfIJut2U1fENJJ",
+            "title": "Microsoft SQL Server on Red Hat Enterprise Linux using Red Hat Universal Base Image (UBI)",
+            "description": "Run Microsoft SQL Server on RHEL by containerizing it in a UBI with the RHEL Container Tools"
+        },
+        {
             "slug": "rhel/sandbox",
             "token": "em_2-ROeaX2dowRGBpI",
             "title": "Red Hat Enterprise Linux Open Lab",
