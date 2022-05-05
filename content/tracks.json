@@ -1,5 +1,5 @@
 {
-    "title": "RHEL8 Labs",
+    "title": "Red Hat Enterprise Linux Self-paced Labs",
     "tracks": [
         {
             "slug": "rhel/session-recording-tlog",
@@ -24,6 +24,12 @@
             "token": "em_u7LY84PWTHqOpbGM",
             "title": "Building a standard operating environment with RHEL System Roles",
             "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
+        },
+        {
+            "slug": "rhel/podman-deploy",
+            "token": "em_7d3vYt2mESY64zjE",
+            "title": "Deploying containers using Container Tools [podman]",
+            "description": "Deploy and run container images using the utilities included in teh RHEL Container Tools."
         },
         {
             "slug": "rhel/using-file-permissions",
@@ -68,6 +74,12 @@
             "description": "Learn how to use YUM and RPM to streamline installations and verify local software."
         },
         {
+            "slug": "rhel/containerize-app",
+            "token": "em_CDtA1DHp6kr3GsnE",
+            "title": "Build an application into a container image using RHEL Container Tools",
+            "description": "Add an existing application to a Red Hat Universal Base Image (UBI) container and deploy it."
+        },
+        {
             "slug": "rhel/insights-workshop",
             "token": "em_nHZovFaXtpAJ4W0r",
             "title": "Resolving issues with Red Hat Insights Advisor",
@@ -80,10 +92,10 @@
             "description": "Learn the distinction between processes, services, and daemons, as well as how to interact with them on your system."
         },
         {
-            "slug": "rhel/unixisms",
-            "token": "em_ZDXD12LbYQkgU72r",
-            "title": "Unusual Unixisms [Admin 101]",
-            "description": "Learn how to avoid common pitfalls for new Linux users."
+            "slug": "rhel/buildah",
+            "token": "em_z3_Cg0iZ867vdaLZ",
+            "title": "Creating images with Container Tools [buildah]",
+            "description": "Build containers using an existing base image or from scratch using the RHEL Container Tools"
         },
         {
             "slug": "rhel/kpatch-apply",
@@ -92,10 +104,28 @@
             "description": "Resolve Critical Vulnerabilities and Exposures (CVEs) by applying Kernel Live Patches to your systems without needing to take a system downtime for maintenance."
         },
         {
+            "slug": "rhel/unixisms",
+            "token": "em_ZDXD12LbYQkgU72r",
+            "title": "Unusual Unixisms [Admin 101]",
+            "description": "Learn how to avoid common pitfalls for new Linux users."
+        },
+        {
+            "slug": "rhel/sql-server-insights",
+            "token": "em_BHi2VVALLqfHlWwv",
+            "title": "Using Red Hat Insights with SQL Server",
+            "description": "Improve performance by discovering and remediating issues using Red Hat Insights for your running workloads"
+        },
+        {
             "slug": "rhel/webconsole-software",
             "token": "em_k2gOngwsskd2qiA6",
             "title": "Managing system updates using the web console",
             "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
+        },
+        {
+            "slug": "rhel/networking-basics",
+            "token": "em_pTgs9ZMJVMhZvj4f",
+            "title": "Configuring Network Interfaces [Admin 101]",
+            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
         },
         {
             "slug": "rhel/selinux-containers",
@@ -107,13 +137,13 @@
             "slug": "rhel/webconsole-perf",
             "token": "em_WaKeB09HY94qgYJz",
             "title": "Using Web Console to Monitor Performance",
-            "description": ""
+            "description": "Monitor system performance using the RHEL web console"
         },
         {
-            "slug": "rhel/networking-basics",
-            "token": "em_pTgs9ZMJVMhZvj4f",
-            "title": "Configuring Network Interfaces [Admin 101]",
-            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
+            "slug": "rhel/pcp-intro",
+            "token": "em_PirqOTTKQruuGyjt",
+            "title": "Performance Co-Pilot (PCP) on Red Hat Enterprise Linux",
+            "description": "Use PCP on RHEL to capture and analyze system and application metrics"
         },
         {
             "slug": "rhel/crypto-policy",
@@ -126,6 +156,24 @@
             "token": "em_s7wJpPFxJYFchzdK",
             "title": "Customize the system-wide cryptographic policy",
             "description": "Create your own customized system-wide cryptographic policy to suit your environment while still applying the policy to all applications that utilize the cryptographic libraries with Red Hat Enterprise Linux."
+        },
+        {
+            "slug": "rhel/sql-server-crypto-policy",
+            "token": "em_N87VJTegeVWy0b70",
+            "title": "Red Hat Enterprise Linux Crypto Policy and Transparent Data Encryption (TDE) With SQL Server",
+            "description": "Use Microsoft SQL Server with RHEL system-wide crypto policies and configure TDE."
+        },
+        {
+            "slug": "rhel/sql-server-session-recording",
+            "token": "em_FNs-wZYK3EjWrd8A",
+            "title": "Terminal Session Recording and SQL Server Auditing",
+            "description": "Enable and review recorded sessions in Red Hat Enterprise Linux, and track activity inside SQL Server using it's auditing feature."
+        },
+        {
+            "slug": "rhel/sql-server-ansible",
+            "token": "em_5a2vkxwxUXxYLfH0",
+            "title": "Installing and configuring Microsoft SQL Server on Red Hat Enterprise Linux using RHEL System Roles",
+            "description": "Use Ansible powered RHEL System Roles to install and configure Microsoft SQL Server on Red Hat Enterprise Linux"
         },
         {
             "slug": "rhel/sandbox",
