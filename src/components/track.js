@@ -11,8 +11,8 @@ const Header = () => {
             <img
                 src={logo}
                 className="logo"
-                title="Red Hat Enterprise Linux Skills Workshops"
-                alt="Red Hat Enterprise Linux Skills Workshops"
+                title="Red Hat Enterprise Linux Self-Paced Labs"
+                alt="Red Hat Enterprise Linux Self-Paced Labs"
             />
             <Link to="/">Back to all labs</Link>
         </div>
