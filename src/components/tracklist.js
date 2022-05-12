@@ -21,7 +21,9 @@ const Banner = () => {
             <p>
                 These interactive labs provide you with a pre-configured Red
                 Hat® Enterprise Linux® instance to experiment, learn, and see
-                how Red Hat can help you solve real-world problems.
+                how Red Hat can help you solve real-world problems. It runs
+	        entirely in your browser, enabling you to learn more about our
+	        technology at your own pace.
             </p>
         </div>
     );
