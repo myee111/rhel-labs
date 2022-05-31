@@ -29,7 +29,7 @@
             "slug": "rhel/podman-deploy",
             "token": "em_7d3vYt2mESY64zjE",
             "title": "Deploying containers using Container Tools [podman]",
-            "description": "Deploy and run container images using the utilities included in teh RHEL Container Tools."
+            "description": "Deploy and run container images using the utilities included in the RHEL Container Tools."
         },
         {
             "slug": "rhel/using-file-permissions",
