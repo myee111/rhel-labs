@@ -186,6 +186,12 @@
             "token": "em_2-ROeaX2dowRGBpI",
             "title": "Red Hat Enterprise Linux Open Lab",
             "description": "This lab environment has no pre-planned lab content.  It provides a place to try out Red Hat Enterprise Linux 9."
+        },
+        {
+            "slug": "rhel/firewall-system-role",
+            "token": "em_Ke8OewdlbfWR7qqo",
+            "title": "Red Hat Enterprise Linux Firewall System Role",
+            "description": "Configure your firewall with RHEL Firewall System Role."
         }
     ]
 }
