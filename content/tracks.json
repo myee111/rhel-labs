@@ -192,6 +192,12 @@
             "token": "em_Ke8OewdlbfWR7qqo",
             "title": "Red Hat Enterprise Linux Firewall System Role",
             "description": "Configure your firewall with RHEL Firewall System Role."
+        },
+        {
+            "slug": "rhel/openscap",
+            "token": "em_3Fft47gDkqInkKIA",
+            "title": "Using OpenSCAP for security compliance and vulnerability scanning",
+            "description": "Using OpenSCAP for security compliance and vulnerability scanning"
         }
     ]
 }
