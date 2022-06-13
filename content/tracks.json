@@ -192,6 +192,12 @@
             "token": "em_Ke8OewdlbfWR7qqo",
             "title": "Red Hat Enterprise Linux Firewall System Role",
             "description": "Configure your firewall with RHEL Firewall System Role."
+        },
+        {
+            "slug": "rhel/edge-management",
+            "token": "em_Mz-fP-WYp-DjoUKM",
+            "title": "Red Hat Enterprise Linux Edge Management",
+            "description": "Learn how Red Hat manages edge devices."
         }
     ]
 }
