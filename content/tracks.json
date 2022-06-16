@@ -44,12 +44,6 @@
             "description": "Improve SQL Server performance by using Red Hat Enterprise Linux performance tools and SQL Server Columnstores."
         },
         {
-            "slug": "rhel/ebpf-tracing",
-            "token": "em_aOddlcxT1SOFdNJP",
-            "title": "Performance observability in practice with bcc-tools",
-            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
-        },
-        {
             "slug": "rhel/managing-user-basics",
             "token": "em_oCqs5YhwrMNeQj5O",
             "title": "Manage user accounts and groups [Admin 101]",
