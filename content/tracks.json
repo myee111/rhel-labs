@@ -192,6 +192,12 @@
             "token": "em_Mz-fP-WYp-DjoUKM",
             "title": "Red Hat Enterprise Linux Edge Management",
             "description": "Learn how Red Hat manages edge devices."
+        },
+        {
+            "slug": "rhel/file-access-policy",
+            "token": "em_AV3cbtIiBL_nFskK",
+            "title": "File Access Policy",
+            "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
         }
     ]
 }
