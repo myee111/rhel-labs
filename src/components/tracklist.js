@@ -13,11 +13,11 @@ const Banner = () => {
                 <img
                     src={logo}
                     className="logo"
-                    title="Red Hat Enterprise Linux Skills Workshops"
-                    alt="Red Hat Enterprise Linux Skills Workshops"
+                    title="Red Hat Enterprise Linux Self-Paced Labs"
+                    alt="Red Hat Enterprise Linux Self-Paced Labs"
                 />
             </Link>
-            <h1>Red Hat Enterprise Linux Skills Workshops</h1>
+            <h1>Red Hat Enterprise Linux Self-Paced Labs</h1>
             <p>
                 These interactive labs provide you with a pre-configured Red
                 Hat® Enterprise Linux® instance to experiment, learn, and see
@@ -33,7 +33,7 @@ const TrackList = () => {
     return (
         <div>
             <Helmet>
-                <title>Red Hat Enterprise Linux Skills Workshops</title>
+                <title>Red Hat Enterprise Linux Self-Paced Labs</title>
                 <link rel="icon" type="image/png" href={favicon} />
             </Helmet>
             <Banner />

@@ -27,7 +27,7 @@ const Track = ({ pageContext }) => {
     return (
         <div class="track">
             <Helmet>
-                <title>{pageContext.track.title} - Red Hat Enterprise Linux Skills Workshops</title>
+                <title>{pageContext.track.title} - Red Hat Enterprise Linux Self-Paced Labs</title>
                 <link rel="icon" type="image/png" href={favicon} />
             </Helmet>
             <Header />
