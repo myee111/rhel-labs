@@ -117,6 +117,10 @@
             "to": "https://lab.redhat.com/tracks/selinux-containers"
         },
         {
+            "from": "/openscap",
+            "to": "https://lab.redhat.com/tracks/openscap"
+        },
+        {
             "from": "/webconsole-software",
             "to": "https://lab.redhat.com/tracks/webconsole-software"
         }
