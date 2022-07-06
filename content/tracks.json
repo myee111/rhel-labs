@@ -198,6 +198,12 @@
             "token": "em_AV3cbtIiBL_nFskK",
             "title": "File Access Policy",
             "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
+        },
+        {
+            "slug": "rhel/openscap",
+            "token": "em_3Fft47gDkqInkKIA",
+            "title": "Using OpenSCAP for security compliance and vulnerability scanning",
+            "description": "Use OpenSCAP for security compliance and vulnerability scanning"
         }
     ]
 }
