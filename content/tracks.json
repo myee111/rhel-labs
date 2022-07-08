@@ -75,7 +75,7 @@
         },
         {
             "slug": "rhel/containerize-app",
-            "token": "em_CDtA1DHp6kr3GsnE",
+            "token": "em_CDtAlDHp6kr3GsnE",
             "title": "Build an application into a container image using RHEL Container Tools",
             "description": "Add an existing application to a Red Hat Universal Base Image (UBI) container and deploy it."
         },
@@ -159,7 +159,7 @@
         },
         {
             "slug": "rhel/sql-server-crypto-policy",
-            "token": "em_N87VJTegeVWy0b70",
+            "token": "em_N87VJTegeVWyOb70",
             "title": "Red Hat Enterprise Linux Crypto Policy and Transparent Data Encryption (TDE) With SQL Server",
             "description": "Use Microsoft SQL Server with RHEL system-wide crypto policies and configure TDE."
         },
