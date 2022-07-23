@@ -75,7 +75,7 @@
         },
         {
             "slug": "rhel/containerize-app",
-            "token": "em_CDtA1DHp6kr3GsnE",
+            "token": "em_CDtAlDHp6kr3GsnE",
             "title": "Build an application into a container image using RHEL Container Tools",
             "description": "Add an existing application to a Red Hat Universal Base Image (UBI) container and deploy it."
         },
