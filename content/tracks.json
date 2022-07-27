@@ -204,6 +204,12 @@
             "token": "em_3Fft47gDkqInkKIA",
             "title": "Using OpenSCAP for security compliance and vulnerability scanning",
             "description": "Use OpenSCAP for security compliance and vulnerability scanning"
+        },
+        {
+            "slug": "rhel/rhel-system-roles-metrics",
+            "token": "em_WeIZv_GqCHikp4zo",
+            "title": "Monitor your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role",
+            "description": "Learn how RHEL System Roles can automatically configure a systems monitoring infrastructure for you."
         }
     ]
 }
