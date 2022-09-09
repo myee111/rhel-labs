@@ -44,10 +44,10 @@
             "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
         },
         {
-            "slug": "rhel/ebpf-tracing",
-            "token": "em_aOddlcxT1SOFdNJP",
-            "title": "Performance observability in practice with bcc-tools",
-            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
+            "slug": "rhel/firewall-system-role",
+            "token": "em_Ke8OewdlbfWR7qqo",
+            "title": "Red Hat Enterprise Linux Firewall System Role",
+            "description": "Configure your firewall with RHEL Firewall System Role."
         },
         {
             "slug": "rhel/managing-user-basics",
@@ -152,10 +152,10 @@
             "description": "Use PCP on RHEL to capture and analyze system and application metrics"
         },
         {
-            "slug": "rhel/firewall-system-role",
-            "token": "em_Ke8OewdlbfWR7qqo",
-            "title": "Red Hat Enterprise Linux Firewall System Role",
-            "description": "Configure your firewall with RHEL Firewall System Role."
+            "slug": "rhel/ebpf-tracing",
+            "token": "em_aOddlcxT1SOFdNJP",
+            "title": "Performance observability in practice with bcc-tools",
+            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
         },
         {
             "slug": "rhel/edge-management",
