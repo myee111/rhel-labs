@@ -2,10 +2,10 @@
     "title": "Red Hat Enterprise Linux Self-paced Labs",
     "tracks": [
         {
-            "slug": "rhel/session-recording-tlog",
-            "token": "em_YX_bsY6ekUg7G1C7",
-            "title": "Configuring Terminal Session Recording",
-            "description": "Keep track of what is happening on your systems by using Terminal Session Recording to record and review terminal sessions of users and administrators."
+            "slug": "rhel/rhel-system-roles",
+            "token": "em_u7LY84PWTHqOpbGM",
+            "title": "Building a standard operating environment with RHEL System Roles",
+            "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
         },
         {
             "slug": "rhel/appstream-manage",
@@ -20,10 +20,10 @@
             "description": "Add a few essential commands to your Linux toolbox."
         },
         {
-            "slug": "rhel/rhel-system-roles",
-            "token": "em_u7LY84PWTHqOpbGM",
-            "title": "Building a standard operating environment with RHEL System Roles",
-            "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
+            "slug": "rhel/session-recording-tlog",
+            "token": "em_YX_bsY6ekUg7G1C7",
+            "title": "Configuring Terminal Session Recording",
+            "description": "Keep track of what is happening on your systems by using Terminal Session Recording to record and review terminal sessions of users and administrators."
         },
         {
             "slug": "rhel/podman-deploy",
@@ -38,16 +38,16 @@
             "description": "Control access to file content using the Linux file permission system."
         },
         {
-            "slug": "rhel/sql-server-cstore",
-            "token": "em_CGaegyNgWaIna89D",
-            "title": "Red Hat Enterprise Linux with SQL Server Columnstores",
-            "description": "Improve SQL Server performance by using Red Hat Enterprise Linux performance tools and SQL Server Columnstores."
+            "slug": "rhel/file-access-policy",
+            "token": "em_AV3cbtIiBL_nFskK",
+            "title": "File Access Policy",
+            "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
         },
         {
-            "slug": "rhel/ebpf-tracing",
-            "token": "em_aOddlcxT1SOFdNJP",
-            "title": "Performance observability in practice with bcc-tools",
-            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
+            "slug": "rhel/firewall-system-role",
+            "token": "em_Ke8OewdlbfWR7qqo",
+            "title": "Red Hat Enterprise Linux Firewall System Role",
+            "description": "Configure your firewall with RHEL Firewall System Role."
         },
         {
             "slug": "rhel/managing-user-basics",
@@ -110,6 +110,12 @@
             "description": "Learn how to avoid common pitfalls for new Linux users."
         },
         {
+            "slug": "rhel/rhel-system-roles-metrics",
+            "token": "em_WeIZv_GqCHikp4zo",
+            "title": "Monitor your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role",
+            "description": "Learn how RHEL System Roles can automatically configure a systems monitoring infrastructure for you."
+        },
+        {
             "slug": "rhel/sql-server-insights",
             "token": "em_BHi2VVALLqfHlWwv",
             "title": "Using Red Hat Insights with SQL Server",
@@ -146,6 +152,26 @@
             "description": "Use PCP on RHEL to capture and analyze system and application metrics"
         },
         {
+            "slug": "rhel/ebpf-tracing",
+            "token": "em_aOddlcxT1SOFdNJP",
+            "title": "Performance observability in practice with bcc-tools",
+            "description": "Collect data on various system activities, such as disk performance, latency, and more using the bcc-tools.  This data can help identify issues with application performance."
+        },
+        {
+            "slug": "rhel/edge-management",
+            "token": "em_Mz-fP-WYp-DjoUKM",
+            "title": "Red Hat Enterprise Linux Edge Management",
+            "description": "Learn how Red Hat manages edge devices."
+        },
+        
+        {
+            "slug": "rhel/openscap",
+            "token": "em_3Fft47gDkqInkKIA",
+            "title": "Using OpenSCAP for security compliance and vulnerability scanning",
+            "description": "Use OpenSCAP for security compliance and vulnerability scanning"
+        },
+        
+        {
             "slug": "rhel/crypto-policy",
             "token": "em_zC16xH7OhHWl6JUv",
             "title": "Configuring the system-wide cryptographic policy",
@@ -156,6 +182,12 @@
             "token": "em_s7wJpPFxJYFchzdK",
             "title": "Customize the system-wide cryptographic policy",
             "description": "Create your own customized system-wide cryptographic policy to suit your environment while still applying the policy to all applications that utilize the cryptographic libraries with Red Hat Enterprise Linux."
+        },
+        {
+            "slug": "rhel/sql-server-cstore",
+            "token": "em_CGaegyNgWaIna89D",
+            "title": "Red Hat Enterprise Linux with SQL Server Columnstores",
+            "description": "Improve SQL Server performance by using Red Hat Enterprise Linux performance tools and SQL Server Columnstores."
         },
         {
             "slug": "rhel/sql-server-crypto-policy",
@@ -180,36 +212,6 @@
             "token": "em_2-ROeaX2dowRGBpI",
             "title": "Red Hat Enterprise Linux Open Lab",
             "description": "This lab environment has no pre-planned lab content.  It provides a place to try out Red Hat Enterprise Linux 9."
-        },
-        {
-            "slug": "rhel/firewall-system-role",
-            "token": "em_Ke8OewdlbfWR7qqo",
-            "title": "Red Hat Enterprise Linux Firewall System Role",
-            "description": "Configure your firewall with RHEL Firewall System Role."
-        },
-        {
-            "slug": "rhel/edge-management",
-            "token": "em_Mz-fP-WYp-DjoUKM",
-            "title": "Red Hat Enterprise Linux Edge Management",
-            "description": "Learn how Red Hat manages edge devices."
-        },
-        {
-            "slug": "rhel/file-access-policy",
-            "token": "em_AV3cbtIiBL_nFskK",
-            "title": "File Access Policy",
-            "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
-        },
-        {
-            "slug": "rhel/openscap",
-            "token": "em_3Fft47gDkqInkKIA",
-            "title": "Using OpenSCAP for security compliance and vulnerability scanning",
-            "description": "Use OpenSCAP for security compliance and vulnerability scanning"
-        },
-        {
-            "slug": "rhel/rhel-system-roles-metrics",
-            "token": "em_WeIZv_GqCHikp4zo",
-            "title": "Monitor your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role",
-            "description": "Learn how RHEL System Roles can automatically configure a systems monitoring infrastructure for you."
         }
     ]
 }
