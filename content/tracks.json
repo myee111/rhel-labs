@@ -116,16 +116,22 @@
             "description": "Learn how RHEL System Roles can automatically configure a systems monitoring infrastructure for you."
         },
         {
-            "slug": "rhel/sql-server-insights",
-            "token": "em_BHi2VVALLqfHlWwv",
-            "title": "Using Red Hat Insights with SQL Server",
-            "description": "Improve performance by discovering and remediating issues using Red Hat Insights for your running workloads"
+            "slug": "rhel/convert2rhel",
+            "token": "em_LOwB78xQOPS95CWX",
+            "title": "Migrating to RHEL from CentOS Linux",
+            "description": "Get a hands-on look at converting a CentOS Linux system to RHEL using the convert2rhel tool from Red Hat."
         },
         {
             "slug": "rhel/webconsole-software",
             "token": "em_k2gOngwsskd2qiA6",
             "title": "Managing system updates using the web console",
             "description": "Explore how someone with limited Linux experience can apply system updates to Red Hat Enterprise Linux systems through this user friendly web interface."
+        },
+        {
+            "slug": "rhel/sql-server-insights",
+            "token": "em_BHi2VVALLqfHlWwv",
+            "title": "Using Red Hat Insights with SQL Server",
+            "description": "Improve performance by discovering and remediating issues using Red Hat Insights for your running workloads"
         },
         {
             "slug": "rhel/networking-basics",
