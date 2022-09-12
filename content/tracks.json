@@ -122,6 +122,12 @@
             "description": "Get a hands-on look at converting a CentOS Linux system to RHEL using the convert2rhel tool from Red Hat."
         },
         {
+            "slug": "rhel/networking-basics",
+            "token": "em_pTgs9ZMJVMhZvj4f",
+            "title": "Configuring Network Interfaces [Admin 101]",
+            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
+        },
+        {
             "slug": "rhel/webconsole-software",
             "token": "em_k2gOngwsskd2qiA6",
             "title": "Managing system updates using the web console",
@@ -132,12 +138,6 @@
             "token": "em_BHi2VVALLqfHlWwv",
             "title": "Using Red Hat Insights with SQL Server",
             "description": "Improve performance by discovering and remediating issues using Red Hat Insights for your running workloads"
-        },
-        {
-            "slug": "rhel/networking-basics",
-            "token": "em_pTgs9ZMJVMhZvj4f",
-            "title": "Configuring Network Interfaces [Admin 101]",
-            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
         },
         {
             "slug": "rhel/selinux-containers",
@@ -168,15 +168,13 @@
             "token": "em_Mz-fP-WYp-DjoUKM",
             "title": "Red Hat Enterprise Linux Edge Management",
             "description": "Learn how Red Hat manages edge devices."
-        },
-        
+        },      
         {
             "slug": "rhel/openscap",
             "token": "em_3Fft47gDkqInkKIA",
             "title": "Using OpenSCAP for security compliance and vulnerability scanning",
             "description": "Use OpenSCAP for security compliance and vulnerability scanning"
-        },
-        
+        },       
         {
             "slug": "rhel/crypto-policy",
             "token": "em_zC16xH7OhHWl6JUv",
