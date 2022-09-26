@@ -2,10 +2,10 @@
     "title": "Red Hat Enterprise Linux Self-paced Labs",
     "tracks": [
         {
-            "slug": "rhel/rhel-system-roles",
-            "token": "em_u7LY84PWTHqOpbGM",
-            "title": "Building a standard operating environment with RHEL System Roles",
-            "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
+            "slug": "rhel/firewall-system-role",
+            "token": "em_Ke8OewdlbfWR7qqo",
+            "title": "Red Hat Enterprise Linux Firewall System Role",
+            "description": "Configure your firewall with RHEL Firewall System Role."
         },
         {
             "slug": "rhel/appstream-manage",
@@ -44,10 +44,10 @@
             "description": "Deploy and manage application control on Red Hat Enterprise Linux systems."
         },
         {
-            "slug": "rhel/firewall-system-role",
-            "token": "em_Ke8OewdlbfWR7qqo",
-            "title": "Red Hat Enterprise Linux Firewall System Role",
-            "description": "Configure your firewall with RHEL Firewall System Role."
+            "slug": "rhel/rhel-system-roles",
+            "token": "em_u7LY84PWTHqOpbGM",
+            "title": "Building a standard operating environment with RHEL System Roles",
+            "description": "Use RHEL System Roles to create and apply a standard set of configuration for systems using Ansible-based RHEL System Roles."
         },
         {
             "slug": "rhel/managing-user-basics",
