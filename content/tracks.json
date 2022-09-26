@@ -2,10 +2,10 @@
     "title": "Red Hat Enterprise Linux Self-paced Labs",
     "tracks": [
         {
-            "slug": "rhel/firewall-system-role",
-            "token": "em_Ke8OewdlbfWR7qqo",
-            "title": "Red Hat Enterprise Linux Firewall System Role",
-            "description": "Configure your firewall with RHEL Firewall System Role."
+            "slug": "rhel/networking-basics",
+            "token": "em_pTgs9ZMJVMhZvj4f",
+            "title": "Configuring Network Interfaces [Admin 101]",
+            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
         },
         {
             "slug": "rhel/appstream-manage",
@@ -122,10 +122,10 @@
             "description": "Get a hands-on look at converting a CentOS Linux system to RHEL using the convert2rhel tool from Red Hat."
         },
         {
-            "slug": "rhel/networking-basics",
-            "token": "em_pTgs9ZMJVMhZvj4f",
-            "title": "Configuring Network Interfaces [Admin 101]",
-            "description": "Learn how to apply network settings to interfaces and manage connections using Network Manager and the nmcli command."
+            "slug": "rhel/firewall-system-role",
+            "token": "em_Ke8OewdlbfWR7qqo",
+            "title": "Red Hat Enterprise Linux Firewall System Role",
+            "description": "Configure your firewall with RHEL Firewall System Role."
         },
         {
             "slug": "rhel/webconsole-software",
